@@ -1,5 +1,5 @@
 # Real-Estate-Data-Science-Application - Link( http://localhost:8501/ )
-## project Details 
+## Project Details 
 Predicting property prices in Gurgaon, like any real estate prediction, involves analyzing a variety of factors that influence the market.
 1. Data Collection: Gather comprehensive data on historical property prices in Gurgaon. This includes details such as property location, size, amenities, age, transaction dates, and selling prices.
 
